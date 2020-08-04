@@ -13,11 +13,9 @@ class Anagram
       array.split("").sort == @some_word.split("").sort
     end
   end
-  
 
 
 
-  end
 
 
 
